@@ -1,7 +1,5 @@
 A clone of Netflix created using React, HTML and CSS. Firebase is used for deploying the app.
 
-Link to app: https://netflix-clone-cbc14.web.app/
-
 ![Netflix](https://user-images.githubusercontent.com/52904509/94358223-0fdea300-00bd-11eb-81f1-36fe6d5048fb.JPG)
 
 ## Available Scripts
